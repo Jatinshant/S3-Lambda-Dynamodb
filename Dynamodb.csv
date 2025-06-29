@@ -1,0 +1,13 @@
+user_id	email	first_name	last_name	age	city	country	subscription_type	created_date	last_login	is_active	purchase_count	total_spent
+usr_001	john.doe@email.com	John	Doe	28	New York	USA	premium	15-01-2024	20-06-2024	TRUE	5	299.99
+usr_002	jane.smith@email.com	Jane	Smith	34	London	UK	basic	03-02-2024	18-06-2024	TRUE	2	49.98
+usr_003	mike.johnson@email.com	Mike	Johnson	22	Toronto	Canada	premium	28-01-2024	15-06-2024	FALSE	8	599.92
+usr_004	sarah.wilson@email.com	Sarah	Wilson	31	Sydney	Australia	basic	10-03-2024	22-06-2024	TRUE	1	19.99
+usr_005	david.brown@email.com	David	Brown	45	Berlin	Germany	enterprise	05-01-2024	25-06-2024	TRUE	12	1299.88
+usr_006	lisa.garcia@email.com	Lisa	Garcia	27	Madrid	Spain	premium	20-02-2024	10-06-2024	TRUE	3	149.97
+usr_007	tom.anderson@email.com	Tom	Anderson	39	Chicago	USA	basic	15-03-2024	12-06-2024	FALSE	0	0
+usr_008	emma.taylor@email.com	Emma	Taylor	26	Paris	France	premium	22-01-2024	24-06-2024	TRUE	6	359.94
+usr_009	alex.white@email.com	Alex	White	33	Vancouver	Canada	enterprise	08-02-2024	21-06-2024	TRUE	15	1899.85
+usr_010	maria.lopez@email.com	Maria	Lopez	29	Barcelona	Spain	basic	05-03-2024	16-06-2024	TRUE	4	79.96
+usr_011	jatin.gamil@email.com	Jatin	Shant	24	jaipur	mansarovar	basic	05-03-2024	16-06-2024	TRUE	4	80.9
+usr_012	jatin.gamil@email.com	ajay	Sharma	24	jaipur	mansarovar	basic	05-03-2024	16-06-2024	TRUE	4	80.9
